@@ -25,7 +25,7 @@ It's a small project, but it helped me understand several important concepts, es
 ## Project Structure
 
 ```text
-python-ai-chatbot/
+AI-Python-Tutor/
 ├── src/
 │   └── python_chatbot/
 │       ├── __init__.py
@@ -43,8 +43,8 @@ python-ai-chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd python-ai-chatbot
+git clone https://github.com/pavanpiyumantha44/AI-Python-Tutor.git
+cd AI-Python-Tutor
 ```
 
 ### 2. Install dependencies
