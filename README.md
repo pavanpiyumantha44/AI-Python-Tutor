@@ -44,7 +44,7 @@ AI-Python-Tutor/
 
 ```bash
 git clone https://github.com/pavanpiyumantha44/AI-Python-Tutor.git
-cd python-ai-chatbot
+cd AI-Python-Tutor
 ```
 
 ### 2. Install dependencies
