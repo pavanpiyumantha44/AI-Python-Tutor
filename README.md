@@ -53,12 +53,13 @@ cd AI-Python-Tutor
 uv sync
 ```
 
-### 3. Configure the API key
+### 3. Configure the API key and Model
 
-Create a `.env` file in the project root and add your Groq API key:
+Create a `.env` file in the project root and add your Groq API key and mdoel:
 
 ```env
 GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=model_name
 ```
 
 ### 4. Run the application
@@ -78,9 +79,8 @@ Some of the things I learned along the way:
 - Working with external APIs using the Groq Python SDK.
 - Understanding system, user, and assistant message roles.
 - Managing conversation history using Python lists and dictionaries.
-- Handling API exceptions using `try-except`.
+- Handling various API exceptions.
 - Organizing Python code into separate modules.
-- Managing API keys securely using environment variables.
 - Understanding Python imports and application entry points.
 
 ---
